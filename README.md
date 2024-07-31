@@ -1,0 +1,2 @@
+# Sentimental-Analysis_of_Amazon_Reviews
+Sentimental-Analysis_of_Amazon_Reviews (Data_analytics)
